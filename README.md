@@ -1,13 +1,4 @@
-# Data-Analysis-Portfolio
+Excel Projects Portfolio
 
-# Sales Dashboard (Excel)
+Welcome to my Excel Projects Portfolio. This repository contains a collection of Microsoft Excel dashboard projects created to demonstrate my data analysis and reporting skills.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-
-## Project Description
-An interactive dashboard to analyze sales performance by product, region, and month.
